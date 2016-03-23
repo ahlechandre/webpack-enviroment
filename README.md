@@ -6,7 +6,7 @@ Basic setup to use a webpack environment
 
 Not compress the output file
 
-1. `git clone https://github.com/ahlechandre/webpack-enviroment`
+1. `git clone https://github.com/ahlechandre/webpack-environment`
 
 2. `cd webpack-enviroment`
 
@@ -18,7 +18,7 @@ Not compress the output file
 
 Compress the output file
 
-1. `git clone https://github.com/ahlechandre/webpack-enviroment`
+1. `git clone https://github.com/ahlechandre/webpack-environment`
 
 2. `cd webpack-enviroment`
 
