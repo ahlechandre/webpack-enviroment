@@ -1,0 +1,17 @@
+{
+  "name": "webpack-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm install -g webpack",
+    "dev": "./node_modules/.bin/webpack",
+    "prod": "NODE_ENV=production ./node_modules/.bin/webpack",
+    "prod_windows": "set \"NODE_ENV=production\" && \"./node_modules/.bin/webpack\""
+  },
+  "devDependencies": {
+    "webpack": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
